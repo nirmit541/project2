@@ -1,4 +1,4 @@
 # New Project
 
-This project was created from local systems
-Created by Nirmit Kumar Bains
+This project was created from local systems.
+Created by Nirmit Kumar Bains.
